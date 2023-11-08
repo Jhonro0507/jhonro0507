@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Román Román</h1>
 <h3 align="center">A passionate frontend developer and data science from Colombia</h3>
 
-<div>
-<p style = 'text-align:center;'>
-<img src="https://dri.es/files/images/blog/javascript-powered-multichannel.gif" alt="jhonro0507" width="300px">
-</p>
-</div>
+<p align="center">
+    <img src="https://dri.es/files/images/blog/javascript-powered-multichannel.gif">
+p>
 
 Mining and metallurgy engineer with solid knowledge in back-end development and programming in Java, Python, R and MATLAB. Passionate about analytics and with skills in machine learning and statistics. Specialised in materials research, with emphasis on fragmentation and thermographic evaluation of advanced ceramic coatings. Experience with databases such as MySQL, unit testing with JUNIT, building REST APIs and Spring Boot framework. Intermediate level of English and proficiency in Spanish for effective communication at an international level. Ready to tackle analytical and programming challenges.
 
