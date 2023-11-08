@@ -30,5 +30,5 @@ Mining and metallurgy engineer with solid knowledge in back-end development and 
 
 
 <p align="center">
-    <src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonro0507&show_icons=true&locale=en&layout=compact" alt="jhonro0507" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonro0507&show_icons=true&locale=en&layout=compact">
     </p>
